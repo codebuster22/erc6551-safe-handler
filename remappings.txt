@@ -1,0 +1,11 @@
+@openzeppelin/=lib/contracts/lib/openzeppelin-contracts/
+account-abstraction/=lib/contracts/lib/account-abstraction/contracts/
+contracts/=lib/contracts/src/
+ds-test/=lib/contracts/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/contracts/lib/openzeppelin-contracts/lib/erc4626-tests/
+erc6551/=lib/contracts/lib/erc6551/
+forge-std/=lib/forge-std/src/
+multicall-authenticated/=lib/contracts/lib/multicall-authenticated/
+openzeppelin-contracts/=lib/contracts/lib/openzeppelin-contracts/
+openzeppelin/=lib/contracts/lib/openzeppelin-contracts/contracts/
+@safe/smart-account/=lib/safe-smart-account/
